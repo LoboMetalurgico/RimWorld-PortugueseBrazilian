@@ -9,7 +9,7 @@ Da mesma forma, exigirá um pouco de preparação e o processo variará ligeiram
 3. Execute o script (Clique direito => Executar com Powershell).
 
 ### Download do Script no Windows:
-1. Vá a [este site](https://github.com/Ludeon/RimWorld-PortugueseBrazilian/blob/master/.Instalação/ScriptDeAtualização.ps1);
+1. Vá a [este site](https://raw.githubusercontent.com/Ludeon/RimWorld-PortugueseBrazilian/master/.Instalação/ScriptDeAtualização.ps1);
 2. Clique com o botão direito em qualquer lugar da página;
 3. No menu pop-up clique em "Salvar como", e altere o tipo do arquivo de "Arquivo TXT" para "Todos os arquivos".
 
